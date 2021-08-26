@@ -1,16 +1,8 @@
 # coklu_ekran_destegi
 
 A new Flutter project.
+![Screenshot_1630015341](https://user-images.githubusercontent.com/76711127/131043630-efb5ce04-8934-4508-9e02-7b4136f0b04c.png)
+![Screenshot_1630015445](https://user-images.githubusercontent.com/76711127/131043795-17a3eb29-3a28-4f40-b8a9-77bcc11ad6f4.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
